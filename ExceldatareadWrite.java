@@ -25,7 +25,7 @@ public class ExceldatareadWrite {
 		System.out.println(d3);
 		System.out.println(d4);
 		ExceldatareadWrite obj1 = new ExceldatareadWrite();
-
+		obj1.writeExcel("First",0,2,"vitthal");
 		obj1.writeExcel("First",1,2,"markad");
 
 	}
